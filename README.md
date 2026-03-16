@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+Developer;API+Development;Learning+Backend+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+Developer;/>
 </p>
 
 ---
