@@ -1,44 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=SHUBHAM&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=SHUBHAM&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham&label=PROFILE+VIEWS&color=00f2fe&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Backend+Systems;Learning+APIs+and+Server+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+Developer;Building+Scalable+Backend+Systems;API+Development+Enthusiast"/>
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham/shubham/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Trophies
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 </p>
 
 ---
 
-### 🛠️ Backend Tech Stack
+## 🛠 Backend Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,mongodb,redis,linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,postgres,mongodb,redis,linux,git,github,vscode,postman"/>
 </p>
 
 ---
 
-### 💬 Developer Wisdom
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=60&section=footer" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>
