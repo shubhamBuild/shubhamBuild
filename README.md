@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=shubham&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=SHUBHAM&fontSize=70&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;MySQL+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=BACKEND+DEVELOPER;DJANGO+DEVELOPER;MYSQL" />
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
+### 🐍 THE CONTRIBUTION SNAKE
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhamBuild/shubhamBuild/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🛠️ Backend Tech Stack
+### 🛠️ BACKEND TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,mysql,postgres,linux,git,vscode" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 💬 Developer Wisdom
+### 💬 DEVELOPER WISDOM
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
