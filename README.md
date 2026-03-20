@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=BACKEND+DEVELOPER;DJANGO+DEVELOPER;MYSQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=PYTHON+DEVELOPER;DJANGO+DEVELOPER;HTML+CSS;C+C%2B%2B;MYSQL;GIT" />
 </p>
 
 ---
@@ -19,18 +19,13 @@
 
 ---
 
-### 🛠️ BACKEND TECH STACK
+### 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,postgres,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,c,cpp,mysql,git" />
 </p>
 
 ---
-
-### 💬 DEVELOPER WISDOM
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <p align="right">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=60&section=footer" />
