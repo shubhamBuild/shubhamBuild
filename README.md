@@ -2,46 +2,135 @@
 
 💻 BCA Student | Python Developer | Django Learner  
 🚀 Passionate about Web Development & Open Source
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=SHUBHAM%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Learner%20|%20Tech%20Explorer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+World!+I’m+Shubham+Singh;Python+Developer;Django+Backend+Developer;Building+Cool+Projects;Always+Learning+New+Tech" />
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="650"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# ✨ About Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+<div align="center">
 
----
+🎓 **Bachelor of Computer Applications**  
+💻 **Python & Django Developer**  
+🚀 **Backend Development Enthusiast**  
+⚡ **Passionate About APIs & Software Developer**  
 
-## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
-## 🔥 Streak Stats
+# 🌐 Animated Social Links
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+<div align="center">
+
+<a href="https://github.com/shubhamBuild">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubhamk-singh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shubhamrajput09082006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://shubhamsingh.pages.dev/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Animated Tech Stack
 
-### 🌟 Portfolio Website
-A modern responsive portfolio using React & Tailwind CSS.
+<div align="center">
 
-### 🌟 Currency Converter API
-Built with Flask and Exchange Rate API.
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,html,css,git,github,vscode,linux,flask&perline=6" />
+
+</div>
 
 ---
 
-## ✨ Quote
 
-"Code. Learn. Build. Repeat."
+
+---
+
+
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💻 Coding Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+# 🧠 Current Learning Journey
+
+```python
+while True:
+    learn_new_technology()
+    build_projects()
+    solve_problems()
+    improve_skills()
+```
+
+---
+
+
+
+---
+
+# 🚀 Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+
+</div>
+---
+
+# 👀 Visitors Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shubhamBuild&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💖 Thanks for Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=180&section=footer&animation=twinkling"/>
+
+### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+
+</div>
+---
+
