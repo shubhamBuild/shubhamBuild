@@ -1,7 +1,5 @@
 # 👋 Hi, I'm SHUBHAM SINGH
 
-💻 BCA Student | Python Developer | Django Learner  
-🚀 Passionate about Web Development & Open Source
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=SHUBHAM%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Django%20Learner%20|%20Tech%20Explorer&descAlignY=58"/>
