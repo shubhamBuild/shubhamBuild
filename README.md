@@ -14,14 +14,15 @@
 
 ---
 
-# ✨ About Me
+#  💫 About Me
 
 <div align="center">
 
-🎓 **Bachelor of Computer Applications**  
-💻 **Python & Django Developer**  
-🚀 **Backend Development Enthusiast**  
-⚡ **Passionate About APIs & Software Developer**  
+💻 Backend-focused developer passionate about Python & Django.  
+🚀 Building responsive web apps and solving real-world problems through code.  
+🌱 Exploring APIs, deployment, databases, and modern backend workflows.  
+🤝 Always interested in learning, building, and collaborating on useful projects.  
+⚡ Code • Learn • Improve • Repeat. 
 
 
 </div>
