@@ -16,11 +16,13 @@
 
 <div align="center">
 
-💻 Backend-focused developer passionate about Python & Django.  
-🚀 Building responsive web apps and solving real-world problems through code.  
-🌱 Exploring APIs, deployment, databases, and modern backend workflows.  
-🤝 Always interested in learning, building, and collaborating on useful projects.  
-⚡ Code • Learn • Improve • Repeat. 
+👋 Hi, I’m a **Backend Developer** obsessed with building robust systems powered by **Python, Django, and clean REST APIs**. 
+
+In simple terms: I spend my time making sure servers don't panic when real traffic hits. From designing rock-solid authentication flows to writing SQL queries that don't need a prayer to execute, I genuinely enjoy solving the heavy, behind-the-scenes problems that make frontend interfaces look good. 
+
+I believe clean code beats clever hacks, tests save weekends, and the best debugging tool is still stepping away from the keyboard for five minutes. When I'm not tracing API latency or talking myself out of rewriting a working script, you’ll find me building practical dev tools, dissecting modern architecture patterns, or figuring out how to automate the repetitive parts of life.
+
+⚡ Always excited to build impactful projects, tackle messy backend challenges, or debate whether `print()` is the ultimate debugger.
 
 
 </div>
